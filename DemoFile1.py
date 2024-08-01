@@ -44,3 +44,4 @@ print(f"SSS/GSIS Contribution: {sss_gsis_contribution}")
 print(f"Phil Health Contribution: {phil_health_contribution}")
 print(f"Gross Monthly Income: {gross_monthly_income}")
 print(f"Net Monthly Income: {net_monthly_income}")
+

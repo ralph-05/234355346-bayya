@@ -1,57 +1,347 @@
-    1  ls
-    2  mkdir linux_practice
-    3  ls
-    4  cd linux_practice
-    5  touch notes.txt
-    6  ls
-    7  cat notes.txt
-    8  echo "Hello,Linux" notes.txt
-    9  ls
-   10  notes.txt
-   11  cat notes.txt
-   12  ls
-   13  cat notes.txt
-   14  echo "Hello,Linux" > notes.txt
-   15  echo "This is a practical exam." >> notes.txt
-   16  head -n 1 notes.txt
-   17  tail -n 1 notes.txt
-   18  mkdir subdir 
-   19  mv notes.txt subdir/
-   20  mv subdir practice_subdir
-   21  cp practice_subdir/notes.txt
-   22  ls
-   23  date
-   24  uptime
-   25  du -sh 
-   26  ssh -v 
-   27  php -v
-   28  mysql -v
-   29  apache2 -v
-   30  apachectl -v
-   31  python -v
-   32  python3 -v
-   33  java -v
-   34  java --version
-   35  git branch
-   36  git branch finalexam
-   37  git checkout finalexam
-   38  gh repo clone http://github.com/ralph-05/234355346-bayya
-   39  cd http://github.com/ralph-05/234355346-bayya
-   40  gh repo clone http://GNPjHc2Ciauvn6D08foGbsVspXfLq3cYE1f@github.com/ralph-05/234355346-bayya
-   41  gh auth login
-   42  git checkout -b finalexam
-   43  history > exam_log.txt
-   44  git add exam_log.txt
-   45  git commit -m "Added exam_log.txt with command history"
-   46  git push origin finalexam
-   47  git repo clone http://github.com/ralph-05/234355346-bayya.git
-   48  gh repo clone http://github.com/ralph-05/234355346-bayya
-   49  gh auth login
-   50  pkg install gh
-   51  gh auth login
-   52  git push origin master finalexam
-   53  gh auth login
-   54  cd 23435536-bayya
-   55  cd
-   56  cd 234355346-bayya
-   57  history > exam_log.txt
+    1  gh
+    2  pkg install apache2
+    3  pkg install mysql-server
+    4  pkg install jdk
+    5  wsl
+    6  code.
+    7  winget nodejs
+    8  winget install code.
+    9  code.
+   10  CLEAR
+   11  clear 
+   12  pkg install git
+   13  pkg install git hub
+   14  pkg -list
+   15  pkg --list
+   16  pkg install python3
+   17  clear
+   18  pkg install python3
+   19  pkg install pkg install openjdk
+   20  apt list --pugradable
+   21  pkg install openjdk
+   22  python3 --version
+   23  pkg install python3
+   24  pkg install open-jdk
+   25  pkg install openjdk
+   26  openjdk --version
+   27  java --version
+   28  pkg install php
+   29  pkg install git
+   30  gh
+   31  pkg install gh
+   32  pkg upgrade
+   33  pkg update
+   34  python -v
+   35  clear
+   36  php -v
+   37  systemctl apache2
+   38  systemctl apache2 status
+   39  apachectl status
+   40  pkg install apache2
+   41  apachectl apache2
+   42  systemctl apache2 status
+   43  apachectl status
+   44  pkg install apache2
+   45  apache2 --version
+   46  apache2 -version
+   47  clear
+   48  apache2 --version
+   49  clear
+   50  pkg install apache
+   51  clear
+   52  pkg install apache2
+   53  apache2 --version
+   54  apache2 version
+   55  systemctl status
+   56  systemctl status apache2
+   57  clear
+   58  pkg install apache2
+   59  apachectl start start apache2
+   60  apachectl start apache2
+   61  apache2ctl -v
+   62  apache -v
+   63  clear
+   64  pkg install apache2
+   65  apachectl start apache2
+   66  clear
+   67  pkg install apache2
+   68  apachectl status
+   69  pkg install apache1
+   70  pkg install apache2
+   71  install apache2
+   72  clear
+   73  pkg install apache2
+   74  clear
+   75  pkg install openssh
+   76  openssh -version
+   77  clear
+   78  git config --global ayyabralph
+   79  clear
+   80  git config --global user.email ralphlaurencebayya3@gmail.com
+   81  git config --global user.name ayyabralph
+   82  git remote add origin http://github.com/ayyabralph/1224356-bayya
+   83  git remote add origin http://github.com/ayyabralph/1224356-bayya.git
+   84  clear
+   85  python3 --version
+   86  php -version
+   87  github -version
+   88  git --version
+   89  pkg install apache2
+   90  systemctl status
+   91  apache2ctl status
+   92  systemctl status apache2
+   93  clear
+   94  git config --global user.name ayyabralph
+   95  git config --global user.email ralphlaurencebayya3@gmail.com
+   96  git remote add origin http://github.com/ayyabralph/1224356-bayya
+   97  git remote add origin http://github.com/ayyabralph/1224356-bayya.git
+   98  git clone http://github.com/ayyabralph/1224356-bayya.git
+   99  touch sample.txt sample1.txt
+  100  git add sample.txt sample1.txt 
+  101  clear
+  102  javac.java demo3.java
+  103  javac.java Demo3.java
+  104  java Demo3.java
+  105  clear
+  106  pkg install gh
+  107  pkg install git
+  108  history
+  109  [A
+  110  git clone http://github.com/ayyabralph/1224356-bayya
+  111  cd 1224356-bayya
+  112  ls
+  113  git checkout master
+  114  ls
+  115  nano sample.java
+  116  ls
+  117  javac sample.java
+  118  nano sample.java
+  119  javac sample.java
+  120  nano sample.java
+  121  javac sample.java
+  122  java sample.java
+  123  cat
+  124  cat sample.java
+  125  clear
+  126  javac sample.java
+  127  java sample.java
+  128  git status
+  129  git log -p
+  130  ls
+  131  rm *.class
+  132  java sample.java
+  133  rm sample.class
+  134  rv *.class
+  135  ls
+  136  clear
+  137  pwed
+  138  pwd
+  139  rm *.class
+  140  ls
+  141  javac sample.java
+  142  ls
+  143  java sample
+  144  nano
+  145  nano sample.java
+  146  samle
+  147  sample
+  148  java sample
+  149  nano sample.java
+  150  nano sample.py
+  151  python sample.py
+  152  nano sample.php
+  153  php sample.php
+  154  phpc sample.php
+  155  nano sample.php
+  156  php sample.php
+  157  nano sample.php
+  158  php sample.php
+  159  cd
+  160  apache2 --version
+  161  pkg install apache2
+  162  apt intall apache2
+  163  sudo apt install apache2
+  164  pkg install tsu 
+  165  apachectl status
+  166  apache2ctl status
+  167  pkg install apache2
+  168  pkg install mysql-server
+  169  pkg install mysql
+  170  pkg install apache2
+  171  apachectl -k start
+  172  pkg install apache2
+  173  apachectl start
+  174  History
+  175  history
+  176  git add sample.py sample.java sample.php
+  177  pkg install apache2
+  178  clear
+  179  java sample.java
+  180  nano sample.java
+  181  nano sample.py
+  182  php sample.php
+  183  history
+  184  clear
+  185  history
+  186  git clone http://github.com/ayyabralph/1224356-bayya.git
+  187  ls
+  188  python sample.py
+  189  nano sample.py
+  190  python sample.py
+  191  ls
+  192  clear
+  193  git clone http://github.com/ralph-05/234355346-bayya.git
+  194  cd
+  195  ls
+  196  cd 234355346-bayya
+  197  ls
+  198  javac demofile.java
+  199  history
+  200  git status
+  201  git log -p
+  202  apachectl status
+  203  apache2 install
+  204  pkg install apache2
+  205  apachectl start
+  206  apachectl -k start
+  207  clear
+  208  pkg update
+  209  pkg upgrade
+  210  pkg install proot-distro
+  211  proot-distro install ubuntu
+  212  proot-distro login ubuntu
+  213  ssh user@hostname_or_ip
+  214  pkg install openssh
+  215  ssh user@hostname_or_ip
+  216  logcat -s 
+  217  clear
+  218  pkg upgrade
+  219  pkg install openssh
+  220  passwd
+  221  ssh-keygen
+  222  SSHD
+  223  sshd
+  224  whoami
+  225  ifconfig
+  226  ssh deamon
+  227  ssh daemon
+  228  pkill sshd
+  229  show
+  230  exit
+  231  pkg search
+  232  pkg search file
+  233  clear
+  234  pkg install openssh
+  235  passwd
+  236  sshd
+  237  logcat  -s 'sshd:'
+  238  logcat-s sshd
+  239  ?
+  240  clear
+  241  pkg install default-jdk
+  242  pkg update
+  243  pkg install default-jdk
+  244  pkg install java
+  245  pkg install default-jdk17
+  246  pkg install openjdk
+  247  openjdk --version
+  248  ?
+  249  clear
+  250  java status
+  251  openjdk status
+  252  pkg install openjdk-17
+  253  pkg install openjdk
+  254  openjdk -version
+  255  java -version
+  256  clear
+  257  exit
+  258  ls
+  259  mkdir linux_practice
+  260  ls
+  261  cd linux_practice
+  262  touch notes.txt
+  263  ls
+  264  cat notes.txt
+  265  echo "Hello,Linux" notes.txt
+  266  ls
+  267  notes.txt
+  268  cat notes.txt
+  269  ls
+  270  cat notes.txt
+  271  echo "Hello,Linux" > notes.txt
+  272  echo "This is a practical exam." >> notes.txt
+  273  head -n 1 notes.txt
+  274  tail -n 1 notes.txt
+  275  mkdir subdir 
+  276  mv notes.txt subdir/
+  277  mv subdir practice_subdir
+  278  cp practice_subdir/notes.txt
+  279  ls
+  280  date
+  281  uptime
+  282  du -sh 
+  283  ssh -v 
+  284  php -v
+  285  mysql -v
+  286  apache2 -v
+  287  apachectl -v
+  288  python -v
+  289  python3 -v
+  290  java -v
+  291  java --version
+  292  git branch
+  293  git branch finalexam
+  294  git checkout finalexam
+  295  gh repo clone http://github.com/ralph-05/234355346-bayya
+  296  cd http://github.com/ralph-05/234355346-bayya
+  297  gh repo clone http://GNPjHc2Ciauvn6D08foGbsVspXfLq3cYE1f@github.com/ralph-05/234355346-bayya
+  298  gh auth login
+  299  git checkout -b finalexam
+  300  history > exam_log.txt
+  301  git add exam_log.txt
+  302  git commit -m "Added exam_log.txt with command history"
+  303  git push origin finalexam
+  304  git repo clone http://github.com/ralph-05/234355346-bayya.git
+  305  gh repo clone http://github.com/ralph-05/234355346-bayya
+  306  gh auth login
+  307  pkg install gh
+  308  gh auth login
+  309  git push origin master finalexam
+  310  gh auth login
+  311  cd 23435536-bayya
+  312  cd
+  313  cd 234355346-bayya
+  314  history > exam_log.txt
+  315  git add exam_log.txt
+  316  git config user.name "ralph-05"
+  317  git config user.email "ralphlaurencebayya@gmail.com"
+  318  git commit -m "Added exam_log.txt with command history"
+  319  git push -u origin finalexam
+  320  git checkout -b finalexam
+  321  git push origin finalexam
+  322  git push origin -u finalexam
+  323  git push origin finalexam
+  324  cd
+  325  cd 234355346-bayya
+  326  history > exam_log.txt
+  327  git add exam_log.txt
+  328  git user.name ralph-05
+  329  git user.name "exam_log.txt"
+  330  git push origin finalexam
+  331  git push origin finalexam 
+  332  git push origin finalexam
+  333  cd 234355346-bayya
+  334  ls
+  335  cd
+  336  clear
+  337  gh auth login
+  338  clear
+  339  history
+  340  clear
+  341  cd /234355346-bayya
+  342  cd 234355346-bayya
+  343  history
+  344  gh auth login
+  345  ls
+  346  git checkout -b finalexam
+  347  history > exam_log.txt

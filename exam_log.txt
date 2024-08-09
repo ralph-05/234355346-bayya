@@ -357,3 +357,11 @@
   357  git commit -m "Added exam_log.txt with command history"
   358  git push -u origin finalexam
   359  history > exam_log.txt
+  360  git add exam_log.txt 
+  361  git user.name "ralph-05"
+  362  git config user.email "ralphlaurencebayya@gmail.com"
+  363  git commit -m "Added exam_log.txt with command history"
+  364  git push -u origin finalexam
+  365  git status
+  366  date
+  367  history > exam_log.txt

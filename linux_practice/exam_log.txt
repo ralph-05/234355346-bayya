@@ -1,0 +1,43 @@
+    1  ls
+    2  mkdir linux_practice
+    3  ls
+    4  cd linux_practice
+    5  touch notes.txt
+    6  ls
+    7  cat notes.txt
+    8  echo "Hello,Linux" notes.txt
+    9  ls
+   10  notes.txt
+   11  cat notes.txt
+   12  ls
+   13  cat notes.txt
+   14  echo "Hello,Linux" > notes.txt
+   15  echo "This is a practical exam." >> notes.txt
+   16  head -n 1 notes.txt
+   17  tail -n 1 notes.txt
+   18  mkdir subdir 
+   19  mv notes.txt subdir/
+   20  mv subdir practice_subdir
+   21  cp practice_subdir/notes.txt
+   22  ls
+   23  date
+   24  uptime
+   25  du -sh 
+   26  ssh -v 
+   27  php -v
+   28  mysql -v
+   29  apache2 -v
+   30  apachectl -v
+   31  python -v
+   32  python3 -v
+   33  java -v
+   34  java --version
+   35  git branch
+   36  git branch finalexam
+   37  git checkout finalexam
+   38  gh repo clone http://github.com/ralph-05/234355346-bayya
+   39  cd http://github.com/ralph-05/234355346-bayya
+   40  gh repo clone http://GNPjHc2Ciauvn6D08foGbsVspXfLq3cYE1f@github.com/ralph-05/234355346-bayya
+   41  gh auth login
+   42  git checkout -b finalexam
+   43  history > exam_log.txt

@@ -345,3 +345,9 @@
   345  ls
   346  git checkout -b finalexam
   347  history > exam_log.txt
+  348  git add exam_log.txt
+  349  git commit -m "Added exam_log.txt with command history"
+  350  git push origin finalexam
+  351  cd
+  352  cd 234355346-bayya
+  353  history > exam_log.txt

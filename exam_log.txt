@@ -351,3 +351,9 @@
   351  cd
   352  cd 234355346-bayya
   353  history > exam_log.txt
+  354  git add exam_log.txt
+  355  git config user.name "ralph-05"
+  356  git config user.email "ralphlaurencebayya@gmail.com"
+  357  git commit -m "Added exam_log.txt with command history"
+  358  git push -u origin finalexam
+  359  history > exam_log.txt
